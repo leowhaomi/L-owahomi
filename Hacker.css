@@ -1,0 +1,73 @@
+body {
+	 background: Black;
+ }
+ p2{
+	color: red;
+}
+p5{
+	color:blue;
+}
+p6{
+	color: yellow;
+}
+p7{
+	color:lime;
+}
+p8{
+	color:purple;
+}
+h4{
+	font-size: 95px;
+}
+h1{
+	color:red;
+	font-size: 110px;
+}
+h2{
+	color:red;
+	font-size:80px;
+}
+h3{
+color:red;
+font-size: 70px;
+	
+}
+img{
+	
+	
+}
+div{
+	color:lime;
+	font-size: 44px;
+}
+input{
+	color: green;
+	font-size: 54px;
+}
+p{
+	color:aqua;
+	font-size:35px;
+}
+li{
+	color:white;
+	font-size: 35px;
+}
+section{
+	color:lime;
+	font-size: 55px;
+	text-align: center;
+	font-style:Italic;
+}
+button{
+	color:purple;
+	font-weight:bold;
+	font-size:54px;
+}
+h5{
+	border:3px yellow double;
+	color:lime;
+	font-size: 110px;
+}
+p{
+	font-size: 34px;
+}
